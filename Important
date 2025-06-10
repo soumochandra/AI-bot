@@ -1,0 +1,6 @@
+pip install pyttsx3 SpeechRecognition wikipedia
+pip install pyaudio  # Use pipwin install pyaudio if it fails
+
+// You have to Install dependencies (open terminal or command prompt)
+to create a algo......
+and thaks me later 😊
